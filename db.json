@@ -2,183 +2,138 @@
   "eventos": [
     {
       "id": 1,
-      "titulo": "Workshop de Programação de Biomedicina",
-      "descricao": "Uma conferência imperdível para desenvolvedores FullStack em Node.js e Typescript. Aprenda com especialistas e fique atualizado com as últimas tendências em programação.",
-      "dataInicio": "2023-12-10",
-      "dataFim": "2023-12-12",
-      "local": "Centro de Convenções de Vilhena",
-      "imagem": "/imagem1.png"
+      "titulo": "Conferência de Inteligência Artificial",
+      "descricao": "Junte-se a especialistas em inteligência artificial de todo o mundo para discutir as últimas tendências e avanços nesta emocionante área da tecnologia. Aprenda sobre machine learning, deep learning e aplicações inovadoras em diferentes setores.",
+      "dataInicio": "2023-12-05",
+      "dataFim": "2023-12-07",
+      "local": "Centro de Convenções de São Paulo",
+      "imagem": "https://investnews.com.br/wp-content/uploads/2023/04/inteligencia_artificial_5-1200x800.jpg"
     },
     {
       "id": 2,
-      "titulo": "Conferência de Desenvolvimento de Software",
-      "descricao": "Uma conferência imperdível para desenvolvedores FullStack em Node.js e Typescript. Aprenda com especialistas e fique atualizado com as últimas tendências em programação.",
-      "dataInicio": "2023-12-10",
-      "dataFim": "2023-12-12",
-      "local": "Centro de Convenções de Vilhena",
-      "imagem": "/imagem2.jpg"
+      "titulo": "Seminário de Energias Renováveis",
+      "descricao": "Participe deste seminário dedicado às energias renováveis, explorando tecnologias inovadoras, políticas públicas e soluções sustentáveis para enfrentar os desafios energéticos globais. Venha contribuir para um futuro mais verde!",
+      "dataInicio": "2024-01-20",
+      "dataFim": "2024-01-22",
+      "local": "Centro de Convenções RioCentro, Rio de Janeiro",
+      "imagem": "https://www.tendaatacado.com.br/dicas/wp-content/uploads/2021/12/fontes-de-energias-renovaveis-topo.jpg"
     },
     {
       "id": 3,
-      "titulo": "Encontro de Maçons",
-      "descricao": "Junte-se a outros membros da Maçonaria em um encontro especial para discutir segredos e filosofia maçônica.",
-      "dataInicio": "2023-11-20",
-      "dataFim": "2023-11-22",
-      "local": "Loja Maçônica Estrela do Norte",
-      "imagem": "/imagem3.jpg"
+      "titulo": "Hackathon de Desenvolvimento de Jogos",
+      "descricao": "Participe deste hackathon de 48 horas e colabore com outros desenvolvedores para criar jogos eletrônicos inovadores. Desafie suas habilidades de programação, design e criatividade. Prêmios incríveis esperam pelos vencedores!",
+      "dataInicio": "2024-02-10",
+      "dataFim": "2024-02-12",
+      "local": "Museu do Amanhã, RJ",
+      "imagem": "https://s2.glbimg.com/USMlAFBTNMvvp3JrUC6HR0inOX4=/512x320/smart/e.glbimg.com/og/ed/f/original/2014/05/19/museu_do_amanha.png"
     },
     {
       "id": 4,
-      "titulo": "Conferência de Ocultismo e Mistérios",
-      "descricao": "Explore os segredos do ocultismo e teorias conspiratórias neste evento emocionante.",
-      "dataInicio": "2023-10-28",
-      "dataFim": "2023-10-30",
-      "local": "Mansão Enigmática",
-      "imagem": "/imagem4.jpg"
+      "titulo": "Conferência de Saúde Digital",
+      "descricao": "Explore as últimas inovações em saúde digital, telemedicina e tecnologias de saúde móvel. Conecte-se com profissionais da saúde, pesquisadores e desenvolvedores de tecnologia para discutir o futuro da assistência médica digital.",
+      "dataInicio": "2024-03-18",
+      "dataFim": "2024-03-20",
+      "local": "Centro de Convenções de Recife",
+      "imagem": "https://www.amplimed.com.br/wp-content/uploads/2021/07/saude_digital_blog-825x542-1.webp"
     },
     {
       "id": 5,
-      "titulo": "Palestra sobre Tecnologia Alienígena",
-      "descricao": "Descubra as últimas teorias sobre tecnologia alienígena e avistamentos de OVNIs.",
-      "dataInicio": "2023-11-05",
-      "dataFim": "2023-11-05",
-      "local": "Centro de Pesquisas Extraterrestres",
-      "imagem": "/imagem5.jpg"
+      "titulo": "Workshop de Sustentabilidade Empresarial",
+      "descricao": "Descubra estratégias práticas para integrar a sustentabilidade aos negócios. Este workshop oferece insights sobre práticas empresariais responsáveis, economia circular e como as empresas podem impulsionar a mudança positiva.",
+      "dataInicio": "2024-04-15",
+      "dataFim": "2024-04-17",
+      "local": "Centro de Eventos Vila Olímpia, São Paulo",
+      "imagem": "/sustentabilidade.webp"
     },
     {
       "id": 6,
-      "titulo": "Curso de Hacking Ético",
-      "descricao": "Aprenda as habilidades necessárias para se tornar um hacker ético neste curso abrangente.",
-      "dataInicio": "2023-12-05",
-      "dataFim": "2023-12-09",
-      "local": "Instituto de Cibersegurança",
-      "imagem": "/imagem6.jpg"
+      "titulo": "Seminário de Inovação em Tecnologia Agrícola",
+      "descricao": "Participe deste seminário dedicado às últimas inovações em tecnologia agrícola. Descubra novas técnicas, equipamentos e práticas sustentáveis que estão transformando a agricultura moderna. Uma oportunidade para agricultores, pesquisadores e empresários do setor agrícola.",
+      "dataInicio": "2024-05-10",
+      "dataFim": "2024-05-12",
+      "local": "Centro de Convenções AgroTech, Brasília",
+      "imagem": "/agrotec.jpg"
     },
     {
       "id": 7,
-      "titulo": "Workshop de Programação em Node.js",
-      "descricao": "Aprimore suas habilidades em Node.js com este workshop prático ministrado por especialistas.",
-      "dataInicio": "2023-11-25",
-      "dataFim": "2023-11-27",
-      "local": "Centro de Treinamento de Desenvolvedores",
-      "imagem": "/imagem7.jpg"
+      "titulo": "Conferência de Ciência de Dados e Big Data",
+      "descricao": "Explore o mundo dos dados massivos e descubra como a ciência de dados está transformando negócios e pesquisas. Aprenda sobre técnicas avançadas de análise, inteligência artificial e como extrair insights valiosos a partir de grandes conjuntos de dados.",
+      "dataInicio": "2024-06-20",
+      "dataFim": "2024-06-22",
+      "local": "Centro de Convenções BigData, São Paulo",
+      "imagem": "https://i.gifer.com/SUV4.gif"
     },
     {
       "id": 8,
-      "titulo": "Conferência de Teorias Conspiratórias",
-      "descricao": "Uma conferência que explora as teorias mais intrigantes e misteriosas do mundo. Prepare-se para questionar a realidade.",
-      "dataInicio": "2023-12-15",
-      "dataFim": "2023-12-17",
-      "local": "Centro de Conspirações Obscuras",
-      "imagem": "/imagem8.jpg"
+      "titulo": "Congresso de Medicina do Futuro",
+      "descricao": "Participe deste congresso que explora as últimas inovações e avanços na medicina, incluindo terapias genéticas, medicina regenerativa e tecnologias médicas inovadoras. Médicos, pesquisadores e profissionais de saúde discutirão o futuro da medicina.",
+      "dataInicio": "2024-07-15",
+      "dataFim": "2024-07-18",
+      "local": "Centro de Convenções Médicas, Rio de Janeiro",
+      "imagem": "/med.webp"
     },
     {
       "id": 9,
-      "titulo": "Encontro de Desenvolvedores de Software da NASA",
-      "descricao": "Junte-se a outros desenvolvedores de software e explore os projetos mais recentes da NASA.",
-      "dataInicio": "2023-11-10",
-      "dataFim": "2023-11-12",
-      "local": "NASA Ames Research Center",
-      "imagem": "/imagem9.jpg"
+      "titulo": "Festival de Arte Digital",
+      "descricao": "Explore a interseção entre arte e tecnologia neste emocionante festival. Apresentando instalações interativas, realidade virtual, arte algorítmica e performances digitais ao vivo. Artistas e entusiastas de todo o mundo se reúnem para celebrar a criatividade digital.",
+      "dataInicio": "2024-08-10",
+      "dataFim": "2024-08-12",
+      "local": "Centro de Artes Digitais, Belo Horizonte",
+      "imagem": "https://www.canalcontemporaneo.art.br/quebra/archives/WebartE.gif"
     },
     {
       "id": 10,
-      "titulo": "Seminário de Segredos e Mistérios",
-      "descricao": "Descubra segredos antigos e mistérios ocultos neste seminário envolvente.",
-      "dataInicio": "2023-11-30",
-      "dataFim": "2023-12-02",
-      "local": "Local Secreto",
-      "imagem": "/imagem10.jpg"
+      "titulo": "Simpósio Internacional de Ciências Ambientais",
+      "descricao": "Participe deste simpósio dedicado às questões ambientais globais. Especialistas discutirão as últimas pesquisas sobre mudanças climáticas, conservação da biodiversidade e práticas sustentáveis. Uma plataforma para compartilhar conhecimentos e impulsionar a ação ambiental.",
+      "dataInicio": "2024-09-05",
+      "dataFim": "2024-09-07",
+      "local": "Centro de Convenções Ambientais, Recife",
+      "imagem": "/amb.webp"
     },
     {
       "id": 11,
-      "titulo": "Conferência de Bioinformática",
-      "descricao": "Explore os avanços mais recentes em bioinformática e sua aplicação na pesquisa biológica.",
-      "dataInicio": "2023-12-08",
-      "dataFim": "2023-12-10",
-      "local": "Centro de Pesquisas em Genômica",
-      "imagem": "/imagem11.jpg"
+      "titulo": "Congresso Internacional de Robótica",
+      "descricao": "Participe deste congresso dedicado à robótica e automação. Explore os últimos avanços em robótica industrial, robótica colaborativa e inteligência artificial aplicada. Engenheiros, pesquisadores e entusiastas compartilharão conhecimentos e experiências.",
+      "dataInicio": "2024-10-10",
+      "dataFim": "2024-10-13",
+      "local": "Centro de Convenções RoboTech, São Paulo",
+      "imagem": "https://i.pinimg.com/originals/cf/2a/84/cf2a845542047ab9ad1a919ad0e7c74a.gif"
     },
     {
       "id": 12,
-      "titulo": "Encontro Alienígena",
-      "descricao": "Uma reunião para aqueles interessados em discutir avistamentos de alienígenas e experiências extraterrestres.",
-      "dataInicio": "2023-11-10",
-      "dataFim": "2023-11-12",
-      "local": "Área 51",
-      "imagem": "/imagem12.jpg"
+      "titulo": "Fórum Global de Inovação em Educação",
+      "descricao": "Participe deste fórum global que reúne educadores, pesquisadores e líderes educacionais para discutir inovações na educação. Explore novas metodologias de ensino, tecnologias educacionais e práticas pedagógicas para moldar o futuro da aprendizagem.",
+      "dataInicio": "2024-11-05",
+      "dataFim": "2024-11-08",
+      "local": "Centro de Convenções Educare, Rio de Janeiro",
+      "imagem": "/edu.jpg"
     },
     {
       "id": 13,
-      "titulo": "Curso de Hacking Ético Avançado",
-      "descricao": "Aprofunde-se no mundo do hacking ético com este curso avançado. Apenas para os mais experientes.",
-      "dataInicio": "2023-11-22",
-      "dataFim": "2023-11-26",
-      "local": "Instituto Avançado de Cibersegurança",
-      "imagem": "/imagem13.jpg"
+      "titulo": "Simpósio Internacional de Inteligência Artificial",
+      "descricao": "Este simpósio reúne especialistas em inteligência artificial para discutir os desenvolvimentos mais recentes em aprendizado de máquina, processamento de linguagem natural e ética na IA. Profissionais e pesquisadores compartilharão insights e descobertas.",
+      "dataInicio": "2024-12-02",
+      "dataFim": "2024-12-05",
+      "local": "Centro de Convenções AI Summit, Belo Horizonte",
+      "imagem": "/artificial.webp"
     },
     {
       "id": 14,
-      "titulo": "Workshop de Programação em Typescript",
-      "descricao": "Aprimore suas habilidades em Typescript com este workshop prático ministrado por especialistas.",
-      "dataInicio": "2023-12-01",
-      "dataFim": "2023-12-03",
-      "local": "Centro de Treinamento de Desenvolvedores",
-      "imagem": "/imagem14.jpg"
+      "titulo": "Conferência Internacional de Saúde Mental",
+      "descricao": "Participe desta conferência dedicada à saúde mental e ao bem-estar emocional. Especialistas em psicologia, psiquiatria e assistência social discutirão as últimas pesquisas, terapias inovadoras e estratégias de apoio para indivíduos e comunidades.",
+      "dataInicio": "2025-01-15",
+      "dataFim": "2025-01-18",
+      "local": "Centro de Convenções MentalCare, Brasília",
+      "imagem": "/Saude-mental.webp"
     },
     {
       "id": 15,
-      "titulo": "Encontro de Programadores Ocultistas",
-      "descricao": "Reúna-se com outros programadores interessados em ocultismo e compartilhe seus conhecimentos.",
-      "dataInicio": "2023-12-05",
-      "dataFim": "2023-12-05",
-      "local": "Templo do Conhecimento Oculto",
-      "imagem": "/imagem15.jpg"
-    },
-    {
-      "id": 16,
-      "titulo": "Conferência de Tecnologia Alienígena",
-      "descricao": "Uma conferência para explorar avanços na tecnologia que podem ter origem alienígena.",
-      "dataInicio": "2023-11-30",
-      "dataFim": "2023-12-02",
-      "local": "Centro de Pesquisas Extraterrestres",
-      "imagem": "/imagem16.jpg"
-    },
-    {
-      "id": 17,
-      "titulo": "Curso de Segredos e Conspirações",
-      "descricao": "Aprenda sobre os segredos e teorias conspiratórias mais famosas do mundo neste curso intrigante.",
-      "dataInicio": "2023-12-18",
-      "dataFim": "2023-12-20",
-      "local": "Instituto de Conspirações",
-      "imagem": "/imagem17.jpg"
-    },
-    {
-      "id": 18,
-      "titulo": "Encontro da Sociedade dos Sapientes",
-      "descricao": "Uma reunião exclusiva para os mais sábios, onde segredos antigos são compartilhados e discutidos.",
-      "dataInicio": "2023-11-28",
-      "dataFim": "2023-11-29",
-      "local": "Local Sagrado da Sabedoria",
-      "imagem": "/imagem18.jpg"
-    },
-    {
-      "id": 19,
-      "titulo": "Conferência de Desenvolvedores da NASA",
-      "descricao": "Explore os projetos de desenvolvimento de software mais recentes da NASA e colabore com especialistas.",
-      "dataInicio": "2023-11-15",
-      "dataFim": "2023-11-18",
-      "local": "NASA Ames Research Center",
-      "imagem": "/imagem19.jpg"
-    },
-    {
-      "id": 20,
-      "titulo": "Seminário sobre Segredos e Mistérios Antigos",
-      "descricao": "Descubra segredos ancestrais e mistérios que perduram ao longo das eras neste seminário enigmático.",
-      "dataInicio": "2023-11-20",
-      "dataFim": "2023-11-22",
-      "local": "Templo dos Antigos Segredos",
-      "imagem": "/imagem20.jpg"
+      "titulo": "Expo Tecnológica de Energia Limpa",
+      "descricao": "Explore as tecnologias emergentes em energia limpa e sustentabilidade. Empresas e startups apresentarão soluções inovadoras em energia solar, eólica, hidrelétrica e outras fontes renováveis. Uma oportunidade para investidores e empresários do setor.",
+      "dataInicio": "2025-02-20",
+      "dataFim": "2025-02-22",
+      "local": "Centro de Exposições CleanTech, São Paulo",
+      "imagem": "https://quimicanocemo.files.wordpress.com/2015/09/sem-tc3adtulo-2.gif"
     }
   ]
 }
